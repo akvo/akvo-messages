@@ -1,4 +1,3 @@
-akvo-messages
-=============
+# akvo-messages
 
 Akvo internal messages types
